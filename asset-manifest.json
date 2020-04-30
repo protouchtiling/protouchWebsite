@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/protouchWebsite/static/css/main.e6ff941e.chunk.css",
-    "main.js": "/protouchWebsite/static/js/main.2bc26b2d.chunk.js",
-    "main.js.map": "/protouchWebsite/static/js/main.2bc26b2d.chunk.js.map",
-    "runtime-main.js": "/protouchWebsite/static/js/runtime-main.09fefd95.js",
-    "runtime-main.js.map": "/protouchWebsite/static/js/runtime-main.09fefd95.js.map",
-    "static/js/2.038fb0fe.chunk.js": "/protouchWebsite/static/js/2.038fb0fe.chunk.js",
-    "static/js/2.038fb0fe.chunk.js.map": "/protouchWebsite/static/js/2.038fb0fe.chunk.js.map",
-    "index.html": "/protouchWebsite/index.html",
-    "precache-manifest.4c063b3873e5ac21f903fef7c8198783.js": "/protouchWebsite/precache-manifest.4c063b3873e5ac21f903fef7c8198783.js",
-    "service-worker.js": "/protouchWebsite/service-worker.js",
-    "static/css/main.e6ff941e.chunk.css.map": "/protouchWebsite/static/css/main.e6ff941e.chunk.css.map",
-    "static/js/2.038fb0fe.chunk.js.LICENSE.txt": "/protouchWebsite/static/js/2.038fb0fe.chunk.js.LICENSE.txt",
-    "static/media/agency.min.css": "/protouchWebsite/static/media/map-image.f40ed5b1.png",
-    "static/media/backsplash.jpeg": "/protouchWebsite/static/media/backsplash.7c51e568.jpeg",
-    "static/media/fireplace.jpg": "/protouchWebsite/static/media/fireplace.1b5f3a1e.jpg",
-    "static/media/renovation.jpg": "/protouchWebsite/static/media/renovation.3810a9ac.jpg",
-    "static/media/tub.jpg": "/protouchWebsite/static/media/tub.e4f0f2eb.jpg"
+    "main.css": "/theprotouchtiling.com/static/css/main.f3126295.chunk.css",
+    "main.js": "/theprotouchtiling.com/static/js/main.718cfd92.chunk.js",
+    "main.js.map": "/theprotouchtiling.com/static/js/main.718cfd92.chunk.js.map",
+    "runtime-main.js": "/theprotouchtiling.com/static/js/runtime-main.082e86a7.js",
+    "runtime-main.js.map": "/theprotouchtiling.com/static/js/runtime-main.082e86a7.js.map",
+    "static/js/2.038fb0fe.chunk.js": "/theprotouchtiling.com/static/js/2.038fb0fe.chunk.js",
+    "static/js/2.038fb0fe.chunk.js.map": "/theprotouchtiling.com/static/js/2.038fb0fe.chunk.js.map",
+    "index.html": "/theprotouchtiling.com/index.html",
+    "precache-manifest.3dc7fdce501e9481166f35dac11eb937.js": "/theprotouchtiling.com/precache-manifest.3dc7fdce501e9481166f35dac11eb937.js",
+    "service-worker.js": "/theprotouchtiling.com/service-worker.js",
+    "static/css/main.f3126295.chunk.css.map": "/theprotouchtiling.com/static/css/main.f3126295.chunk.css.map",
+    "static/js/2.038fb0fe.chunk.js.LICENSE.txt": "/theprotouchtiling.com/static/js/2.038fb0fe.chunk.js.LICENSE.txt",
+    "static/media/agency.min.css": "/theprotouchtiling.com/static/media/map-image.f40ed5b1.png",
+    "static/media/backsplash.jpeg": "/theprotouchtiling.com/static/media/backsplash.7c51e568.jpeg",
+    "static/media/fireplace.jpg": "/theprotouchtiling.com/static/media/fireplace.1b5f3a1e.jpg",
+    "static/media/renovation.jpg": "/theprotouchtiling.com/static/media/renovation.3810a9ac.jpg",
+    "static/media/tub.jpg": "/theprotouchtiling.com/static/media/tub.e4f0f2eb.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.09fefd95.js",
+    "static/js/runtime-main.082e86a7.js",
     "static/js/2.038fb0fe.chunk.js",
-    "static/css/main.e6ff941e.chunk.css",
-    "static/js/main.2bc26b2d.chunk.js"
+    "static/css/main.f3126295.chunk.css",
+    "static/js/main.718cfd92.chunk.js"
   ]
 }
