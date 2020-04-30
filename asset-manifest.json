@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/theprotouchtiling.com/static/css/main.f3126295.chunk.css",
-    "main.js": "/theprotouchtiling.com/static/js/main.718cfd92.chunk.js",
-    "main.js.map": "/theprotouchtiling.com/static/js/main.718cfd92.chunk.js.map",
-    "runtime-main.js": "/theprotouchtiling.com/static/js/runtime-main.082e86a7.js",
-    "runtime-main.js.map": "/theprotouchtiling.com/static/js/runtime-main.082e86a7.js.map",
-    "static/js/2.038fb0fe.chunk.js": "/theprotouchtiling.com/static/js/2.038fb0fe.chunk.js",
-    "static/js/2.038fb0fe.chunk.js.map": "/theprotouchtiling.com/static/js/2.038fb0fe.chunk.js.map",
-    "index.html": "/theprotouchtiling.com/index.html",
-    "precache-manifest.3dc7fdce501e9481166f35dac11eb937.js": "/theprotouchtiling.com/precache-manifest.3dc7fdce501e9481166f35dac11eb937.js",
-    "service-worker.js": "/theprotouchtiling.com/service-worker.js",
-    "static/css/main.f3126295.chunk.css.map": "/theprotouchtiling.com/static/css/main.f3126295.chunk.css.map",
-    "static/js/2.038fb0fe.chunk.js.LICENSE.txt": "/theprotouchtiling.com/static/js/2.038fb0fe.chunk.js.LICENSE.txt",
-    "static/media/agency.min.css": "/theprotouchtiling.com/static/media/map-image.f40ed5b1.png",
-    "static/media/backsplash.jpeg": "/theprotouchtiling.com/static/media/backsplash.7c51e568.jpeg",
-    "static/media/fireplace.jpg": "/theprotouchtiling.com/static/media/fireplace.1b5f3a1e.jpg",
-    "static/media/renovation.jpg": "/theprotouchtiling.com/static/media/renovation.3810a9ac.jpg",
-    "static/media/tub.jpg": "/theprotouchtiling.com/static/media/tub.e4f0f2eb.jpg"
+    "main.css": "/static/css/main.b769ee84.chunk.css",
+    "main.js": "/static/js/main.c9737164.chunk.js",
+    "main.js.map": "/static/js/main.c9737164.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.27a5d24b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.27a5d24b.js.map",
+    "static/js/2.038fb0fe.chunk.js": "/static/js/2.038fb0fe.chunk.js",
+    "static/js/2.038fb0fe.chunk.js.map": "/static/js/2.038fb0fe.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ebff2fe2b4d0395f59710378118bf758.js": "/precache-manifest.ebff2fe2b4d0395f59710378118bf758.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b769ee84.chunk.css.map": "/static/css/main.b769ee84.chunk.css.map",
+    "static/js/2.038fb0fe.chunk.js.LICENSE.txt": "/static/js/2.038fb0fe.chunk.js.LICENSE.txt",
+    "static/media/agency.min.css": "/static/media/map-image.f40ed5b1.png",
+    "static/media/backsplash.jpeg": "/static/media/backsplash.7c51e568.jpeg",
+    "static/media/fireplace.jpg": "/static/media/fireplace.1b5f3a1e.jpg",
+    "static/media/renovation.jpg": "/static/media/renovation.3810a9ac.jpg",
+    "static/media/tub.jpg": "/static/media/tub.e4f0f2eb.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.082e86a7.js",
+    "static/js/runtime-main.27a5d24b.js",
     "static/js/2.038fb0fe.chunk.js",
-    "static/css/main.f3126295.chunk.css",
-    "static/js/main.718cfd92.chunk.js"
+    "static/css/main.b769ee84.chunk.css",
+    "static/js/main.c9737164.chunk.js"
   ]
 }
