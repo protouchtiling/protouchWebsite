@@ -76,7 +76,7 @@ function App() {
   <div className="App">
   <nav className="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div className="container">
-      <p className="navbar-brand">778-683-7556</p> 
+      <a href="tel:778-683-7556" className="navbar-brand">778-683-7556</a>
       <div className="navbar-toggler navbar-toggler-right">
         <Dropdown>
           <Dropdown.Toggle id="dropdown-basic">
